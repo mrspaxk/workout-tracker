@@ -5,7 +5,7 @@
         {"id": 3, "name": "Cardio & Core"},
         {"id": 4, "name": "Chest, Tricep, and Shoulders"},
         {"id": 5, "name": "Glutes & Hamstrings"},
-        {"id": 6, "name": "Cardio & Core"},
+        {"id": 6, "name": "Core"},
         {"id": 7, "name": "REST"}
     ],
     "exercises": [
@@ -31,7 +31,6 @@
         {"split_id": 5, "exercise": "Leg Curls", "sets": 3},
         {"split_id": 5, "exercise": "Glute Ham Raise/45deg Back Extension", "sets": 3},
         {"split_id": 5, "exercise": "Good Mornings", "sets": 3},
-        {"split_id": 6, "exercise": "Sprint 30/90", "sets": 6},
         {"split_id": 6, "exercise": "Supported In & Out, Supported Heel Taps", "sets": 3},
         {"split_id": 6, "exercise": "Crunch Kick-Outs, Leg Raises", "sets": 3},
         {"split_id": 6, "exercise": "Burpees, Plank Holds", "sets": 3}
