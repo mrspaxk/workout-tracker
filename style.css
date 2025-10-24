@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0ff;
+}
+#app {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.exercise {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.set-row {
+    display: flex;
+    justify-content: space-between;
+    margin:  5px 0;
+}
+input {
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #4Ca049;
+}
+#message {
+    transition: opacity 0.5s;
+}

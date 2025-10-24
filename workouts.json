@@ -1,0 +1,39 @@
+{
+    "splits": [
+        {"id": 1, "name": "Glutes & Quads"},
+        {"id": 2, "name": "Back & Bicep"},
+        {"id": 3, "name": "Cardio & Core"},
+        {"id": 4, "name": "Chest, Tricep, and Shoulders"},
+        {"id": 5, "name": "Glutes & Hamstrings"},
+        {"id": 6, "name": "Cardio & Core"},
+        {"id": 7, "name": "Rest"}
+    ],
+    "exercises": [
+        {"split_id": 1, "exercise": "Bulgarian Split Squat", "sets": 3},
+        {"split_id": 1, "exercise": "Front Foot Elevated Lunge", "sets": 3},
+        {"split_id": 1, "exercise": "Sumo Squat", "sets": 3},
+        {"split_id": 1, "exercise": "Leg Extension", "sets": 3},
+        {"split_id": 1, "exercise": "Leg Press", "sets": 3},
+        {"split_id": 2, "exercise": "Lat Pull Down", "sets": 3},
+        {"split_id": 2, "exercise": "Cable Rows", "sets": 3},
+        {"split_id": 2, "exercise": "Bicep Curls", "sets": 3},
+        {"split_id": 2, "exercise": "Landmine Rows", "sets": 3},
+        {"split_id": 3, "exercise": "Sprint 30/90", "sets": 6},
+        {"split_id": 3, "exercise": "Supported In & Out, Supported Heel Taps", "sets": 3},
+        {"split_id": 3, "exercise": "Crunch Kick-Outs, Leg Raises", "sets": 3},
+        {"split_id": 3, "exercise": "Burpees, Plank Holds", "sets": 3},
+        {"split_id": 4, "exercise": "Bench Press", "sets": 3},
+        {"split_id": 4, "exercise": "Push-Ups", "sets": 3},
+        {"split_id": 4, "exercise": "Tricep Extensions, Tricep Pull Downs", "sets": 3},
+        {"split_id": 4, "exercise": "DB Shoulder Press, Lateral Raises, Front Raises", "sets": 3},
+        {"split_id": 5, "exercise": "Hip Thrust", "sets": 3}, 
+        {"split_id": 5, "exercise": "RDLs", "sets": 3},
+        {"split_id": 5, "exercise": "Leg Curls", "sets": 3},
+        {"split_id": 5, "exercise": "Glute Ham Raise/45deg Back Extension", "sets": 3},
+        {"split_id": 5, "exercise": "Good Mornings", "sets": 3},
+        {"split_id": 6, "exercise": "Sprint 30/90", "sets": 6},
+        {"split_id": 6, "exercise": "Supported In & Out, Supported Heel Taps", "sets": 3},
+        {"split_id": 6, "exercise": "Crunch Kick-Outs, Leg Raises", "sets": 3},
+        {"split_id": 6, "exercise": "Burpees, Plank Holds", "sets": 3}
+    ]
+}
