@@ -6,7 +6,7 @@
         {"id": 4, "name": "Chest, Tricep, and Shoulders"},
         {"id": 5, "name": "Glutes & Hamstrings"},
         {"id": 6, "name": "Cardio & Core"},
-        {"id": 7, "name": "Rest"}
+        {"id": 7, "name": "REST"}
     ],
     "exercises": [
         {"split_id": 1, "exercise": "Bulgarian Split Squat", "sets": 3},
